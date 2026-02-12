@@ -1,22 +1,105 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dilip Sahu
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilip-963427&label=Profile%20views&color=0e75b6&style=flat" alt="dilip-963427" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilip-963427" alt="dilip-963427" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilip-sahu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilip-sahu15" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23043567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23043567" height="30" width="40" /></a>
-<a href="https://instagram.com/dilipsahu737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilipsahu737" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dilip-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dilip-sahu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dilipsahu9634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dilipsahu9634" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/dilip-sahu15"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/dilip-sahu"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Frontend Developer | Machine Learning Enthusiast | Competitive Programmer</b><br>
+  <i>Building seamless user experiences and intelligent data-driven solutions.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-963427&show_icons=true&locale=en&layout=compact" alt="dilip-963427" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Innovate%20Repeat&fontSize=40&animation=fadeIn" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilip-963427&show_icons=true&locale=en" alt="dilip-963427" /></p>
+---
 
+### 📖 About Me
+I am a developer who loves the intersection of **clean UI/UX** and **complex data science**. My journey involves crafting responsive web interfaces while exploring the depths of Artificial Intelligence.
+
+- 🔭 **Current Focus:** Building scalable web applications and fine-tuning ML models.
+- 🎓 **Education:** Actively solving algorithmic challenges on LeetCode and HackerEarth.
+- 💡 **Interests:** Distributed Systems, Neural Networks, and Web Performance Optimization.
+- 🌍 **Origin:** Proudly developing from India 🇮🇳.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png" width="40px"/><br/>
+      <b>Frontend</b>
+      <hr />
+      HTML5 / CSS3 / JavaScript<br/>
+      React / Backbone.js<br/>
+      Responsive Design
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-artificial-intelligence-flaticons-flat-flat-icons.png" width="40px"/><br/>
+      <b>Data Science / ML</b>
+      <hr />
+      Python / Pandas / Seaborn<br/>
+      Scikit-Learn / TensorFlow<br/>
+      PyTorch / Computer Vision
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/64/000000/server.png" width="40px"/><br/>
+      <b>Backend & DevOps</b>
+      <hr />
+      MySQL / MS SQL Server<br/>
+      AWS (Cloud Deployment)<br/>
+      Linux / Git / CI-CD
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚧 Roadmap & Future Projects
+
+| Status | Project | Description |
+| :--- | :--- | :--- |
+| 🛠️ | **Telco Churn Analysis** | Improving accuracy of customer retention models using XGBoost. |
+| 🚀 | **Portfolio V2** | A 3D portfolio using Three.js and React Fiber. |
+| 💡 | **AI Image Classifier** | A web-based tool to identify objects in real-time using TensorFlow.js. |
+| 📅 | **Open Source** | Aiming to contribute to the Scikit-learn documentation and codebase. |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-963427&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-963427&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dilip-963427&show_icons=true&locale=en&theme=radical" alt="General Stats" />
+</p>
+
+<br><br><br><br><br><br><br>
+
+---
+
+### 🐍 My Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilip-963427&theme=react-dark-alt&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i><br>
+  <b>Thanks for visiting! Don't forget to star my repos. ⭐</b>
+</p>
