@@ -5,101 +5,82 @@
 <p align="center">
   <a href="https://linkedin.com/in/dilip-sahu15"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.leetcode.com/dilip-sahu"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/23043567"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <b>Frontend Developer | Machine Learning Enthusiast | Competitive Programmer</b><br>
-  <i>Building seamless user experiences and intelligent data-driven solutions.</i>
+  <b>Frontend Developer | Machine Learning Enthusiast | Data Science Explorer</b><br>
+  <i>Crafting elegant interfaces and intelligent algorithms.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Innovate%20Repeat&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20Digital%20Garden&fontSize=40&animation=fadeIn" />
 </p>
 
 ---
 
-### 📖 About Me
-I am a developer who loves the intersection of **clean UI/UX** and **complex data science**. My journey involves crafting responsive web interfaces while exploring the depths of Artificial Intelligence.
-
-- 🔭 **Current Focus:** Building scalable web applications and fine-tuning ML models.
-- 🎓 **Education:** Actively solving algorithmic challenges on LeetCode and HackerEarth.
-- 💡 **Interests:** Distributed Systems, Neural Networks, and Web Performance Optimization.
-- 🌍 **Origin:** Proudly developing from India 🇮🇳.
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-contribution-grid-snake.generate.github.io/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🚀 Professional Summary
+I am a developer driven by curiosity and the challenge of solving real-world problems through code. My expertise spans from building **responsive React applications** to training **predictive models** using Python and advanced ML libraries.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png" width="40px"/><br/>
-      <b>Frontend</b>
-      <hr />
-      HTML5 / CSS3 / JavaScript<br/>
-      React / Backbone.js<br/>
-      Responsive Design
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-artificial-intelligence-flaticons-flat-flat-icons.png" width="40px"/><br/>
-      <b>Data Science / ML</b>
-      <hr />
-      Python / Pandas / Seaborn<br/>
-      Scikit-Learn / TensorFlow<br/>
-      PyTorch / Computer Vision
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/000000/server.png" width="40px"/><br/>
-      <b>Backend & DevOps</b>
-      <hr />
-      MySQL / MS SQL Server<br/>
-      AWS (Cloud Deployment)<br/>
-      Linux / Git / CI-CD
-    </td>
-  </tr>
-</table>
+- 🔭 **Current Project:** Refining a Telecom Churn Prediction model using ensemble learning.
+- 🌱 **Learning Journey:** Currently exploring Deep Learning architectures and AWS Cloud practitioner paths.
+- 👯 **Collaborations:** Open to collaborating on Data Visualization and Full-Stack AI projects.
+- ⚡ **Passion:** I enjoy competitive programming and optimizing code for maximum performance.
 
 ---
 
-### 🚧 Roadmap & Future Projects
+### 🛠️ Technical Skill Matrix
 
-| Status | Project | Description |
-| :--- | :--- | :--- |
-| 🛠️ | **Telco Churn Analysis** | Improving accuracy of customer retention models using XGBoost. |
-| 🚀 | **Portfolio V2** | A 3D portfolio using Three.js and React Fiber. |
-| 💡 | **AI Image Classifier** | A web-based tool to identify objects in real-time using TensorFlow.js. |
-| 📅 | **Open Source** | Aiming to contribute to the Scikit-learn documentation and codebase. |
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Backbone](https://img.shields.io/badge/-Backbone.js-0071B5?logo=backbone.js&logoColor=white) |
+| **Data Science & ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 
 ---
 
-### 📈 GitHub Analytics
+### 🏗️ Upcoming & Future Ventures
+> **"The best code is the code you haven't written yet."**
+
+* **[ ] Project Zenith:** A real-time dashboard for monitoring ML model performance in production.
+* **[ ] Neural-Vision:** A React-based web app that uses PyTorch for real-time image recognition.
+* **[ ] Competitive Programming Hub:** A repository dedicated to advanced Data Structures and Algorithms in C++.
+* **[ ] Open Source:** Contributing to the `seaborn` library for better statistical data visualization.
+
+---
+
+### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-963427&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilip-963427&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-963427&show_icons=true&theme=tokyonight&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-963427&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dilip-963427&show_icons=true&locale=en&theme=radical" alt="General Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-963427&theme=tokyonight" width="100%" />
 </p>
-
-<br><br><br><br><br><br><br>
 
 ---
 
-### 🐍 My Contributions
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilip-963427&theme=react-dark-alt&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilip-963427&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+  <img src="https://komarev.com/ghpvc/?username=dilip-963427&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
 </p>
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br>
-  <b>Thanks for visiting! Don't forget to star my repos. ⭐</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
